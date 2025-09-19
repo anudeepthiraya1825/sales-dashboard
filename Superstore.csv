@@ -1,0 +1,11 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+IN-2017-200001,2017-11-08,2017-11-11,Second Class,IN-2001,Ravi Kumar,Consumer,India,Hyderabad,Telangana,500001,South,Furniture,Bookcases,Godrej Wooden Bookcase,15250,2,0,2250
+IN-2017-200002,2017-11-08,2017-11-09,First Class,IN-2002,Priya Sharma,Corporate,India,Vijayawada,Andhra Pradesh,520001,South,Office Supplies,Labels,Avery Self-Adhesive Labels,450,3,0,180
+IN-2017-200003,2017-06-12,2017-06-16,Standard Class,IN-2003,Arjun Reddy,Consumer,India,Bengaluru,Karnataka,560001,South,Technology,Phones,Samsung Galaxy S8,48500,1,0.1,4200
+IN-2017-200004,2017-04-15,2017-04-20,Standard Class,IN-2004,Meena Iyer,Consumer,India,Chennai,Tamil Nadu,600001,South,Furniture,Chairs,Nilkamal Plastic Chair,3200,4,0,800
+IN-2017-200005,2017-09-17,2017-09-22,Second Class,IN-2005,Akhil Menon,Corporate,India,Kochi,Kerala,682001,South,Office Supplies,Binders,Classmate Ring Binders,650,5,0.05,90
+IN-2017-200006,2017-05-10,2017-05-13,Standard Class,IN-2006,Lavanya Reddy,Home Office,India,Visakhapatnam,Andhra Pradesh,530001,South,Technology,Laptops,HP Pavilion Laptop,58000,1,0.1,7500
+IN-2017-200007,2017-07-22,2017-07-25,First Class,IN-2007,Harish Nair,Consumer,India,Thiruvananthapuram,Kerala,695001,South,Furniture,Tables,Durian Office Table,11200,2,0,2600
+IN-2017-200008,2017-08-30,2017-09-02,Second Class,IN-2008,Divya Mohan,Corporate,India,Mysuru,Karnataka,570001,South,Office Supplies,Paper,JK Copier A4 Paper,1200,10,0,300
+IN-2017-200009,2017-10-05,2017-10-09,Standard Class,IN-2009,Krishna Murthy,Consumer,India,Warangal,Telangana,506001,South,Technology,Accessories,Logitech Wireless Mouse,750,3,0.1,120
+IN-2017-200010,2017-12-12,2017-12-15,First Class,IN-2010,Sneha Ramesh,Home Office,India,Coimbatore,Tamil Nadu,641001,South,Furniture,Furnishings,Curtains Set,4200,2,0,900
