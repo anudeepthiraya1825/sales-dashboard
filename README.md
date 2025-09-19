@@ -61,6 +61,6 @@ The project demonstrates:
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/south-indian-superstore.git
+git clone https://github.com/your-username/indian-superstore.git
 cd south-indian-superstore
 
